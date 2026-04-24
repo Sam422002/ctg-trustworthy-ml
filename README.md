@@ -3,6 +3,7 @@
 **A leakage-audited, calibration-aware benchmark for fetal health classification from cardiotocography data**
 
 [![Python](https://img.shields.io/badge/python-3.11+-blue.svg)](https://www.python.org/downloads/)
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0005--7650--5624-green.svg)](https://orcid.org/0009-0005-7650-5624)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Sam422002/ctg-trustworthy-ml/blob/main/CTG_Paper_Pipeline.ipynb)
 
@@ -165,6 +166,7 @@ UCI CTG dataset is licensed CC BY 4.0.
 Post Graduate Department of Data Science
 St. Xavier's College (Autonomous), Kolkata
 📧 roysam422002@gmail.com
+🔗 ORCID: [0009-0005-7650-5624](https://orcid.org/0009-0005-7650-5624)
 
 ---
 
